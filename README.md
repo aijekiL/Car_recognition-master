@@ -59,12 +59,6 @@ python Car_recognition.py --detect_model weights/detect.pt  --rec_model weights/
 * [https://github.com/deepcam-cn/yolov5-face](https://github.com/deepcam-cn/yolov5-face)
 * [https://github.com/meijieru/crnn.pytorch](https://github.com/meijieru/crnn.pytorch)
 
-## TODO
 
-车型，车辆颜色，品牌等。
-
-## 联系
-
-**有问题可以提issues 或者加qq群 823419837 询问**
 
 ![Image text](image/README/1.png)
